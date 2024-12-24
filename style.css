@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+  
+  .Arch {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+  }
+  
+  .Farida {
+    border: 5px solid white;
+    width: 50%;
+    margin-right: 0%;
+  }
+  .Fareedah {
+    border: 5px solid white;
+    width: 50%;
+    margin-right: 100%;
+  }
+  
